@@ -19,4 +19,12 @@ This project scrapes job titles from a sample job board and analyzes the most co
 
 ## 🚀 How to Run
 1. Clone the repo:
-   ```bash https://github.com/Aleena-Artemis/Python-Web-Scraper-Data-Analysis
+   ```bash
+   https://github.com/Aleena-Artemis/Python-Web-Scraper-Data-Analysis
+2.Install dependencies:
+
+pip install -r requirements.txt
+
+3.Run the script:
+python scraper.py
+
